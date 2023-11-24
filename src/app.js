@@ -246,4 +246,4 @@ for (let i = 0; i < button.length; i++) {
     document.querySelector(".price-details").innerText = "INR " + total;
   });
 }
-
+// project finshed
